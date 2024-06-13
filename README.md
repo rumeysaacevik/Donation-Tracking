@@ -1,12 +1,12 @@
 # Donation-Tracking
 
-1) Aim of the project
+# 1) Aim of the project
 
 Donation Management System is a program that offers users various donation options and manages these donations. The main purpose of the project is to allow users to donate in certain categories (food, clothing, money and other) and to track these donations according to 
 
 categories. Displays total hidden and open donations with open donation and secret donation functions. 
 
-2) Program Structs and Relationships
+# 2) Program Structs and Relationships
 
 2.1)The main purpose of use of “Person” struct :
    
@@ -20,7 +20,7 @@ categories. Displays total hidden and open donations with open donation and secr
 
 - This structure represents the donation system and maintains a dynamically allocated array to store donations
   
-3) Rules :
+# 3) Rules :
   
 3.1) Users can register to the system with their name, surname, e-mail and password information. 
 
